@@ -1,5 +1,6 @@
 
 Micro Proyecto final curso. Gestión de Zoológico
+
 Creamos una carpeta: exam-java fuera de la carpeta utilizada durante el curso
 Añadimos un fichero readme.md con un título
 Añadimos un fichero .gitignore para Java-Maven
