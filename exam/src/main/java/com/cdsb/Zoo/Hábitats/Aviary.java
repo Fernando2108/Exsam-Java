@@ -1,5 +1,12 @@
 package com.cdsb.Zoo.Hábitats;
 
+import Zoo.enums.LugarHabitat;
+
 public class Aviary {
-   LOROS, Tucanes
+
+    @Override
+    public String toString() {
+        return "Aviary []";
+    }
+   LOROS, Tucanes;
 }
